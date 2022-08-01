@@ -1,0 +1,13 @@
+package com.hosnet.net;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HosnetApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
